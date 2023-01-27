@@ -4,4 +4,8 @@ Edits on example branch
 
 Deleted few lines
 
-This change may create conflict
+<<<<<<< HEAD
+
+=======
+Checking for conflict
+>>>>>>> 47085816657e5d643a0204c24455f7b33a4861e4
